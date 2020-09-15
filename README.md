@@ -1,14 +1,14 @@
-# Phase 2 Final Project
+# Phase 2 Project
 
 ## Introduction
 
-In this lesson, we review the guidelines for the Phase 2 Final Project.
+In this lesson, we review the guidelines for the Phase 2 Project.
 
 ## Objectives
 
 You will be able to:
 
-* Start your Phase 2 Final Project
+* Start your Phase 2 Project
 * Check that your project meets the requirements
 * Submit your project materials in Canvas
 * Prepare for your project review
@@ -17,9 +17,9 @@ You will be able to:
 
 Another module down--you're almost half way there!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-online/master/halfway-there.gif)
+![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-campus/master/halfway-there.gif)
 
-All that remains in Phase 2 is to put our newfound data science skills to use with a final project! You should expect this project to take between 20 and 25 hours of solid, focused effort. If you're done way quicker, go back and dig in deeper or try some of the optional "level up" suggestions. If you're worried that you're going to get to 30 hrs and still not even have the data imported, reach out to an instructor in Slack ASAP to get some help!
+All that remains in Phase 2 is to put our newfound data science skills to use with a large project!
 
 ### The Data
 
